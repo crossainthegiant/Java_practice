@@ -15,8 +15,9 @@ public class random_order {
 //        for (int j = 0;j<n;j++){
 //            System.out.println(student[j]);
 //        }
-        Random rn = new Random();
-        int index = rn.nextInt(n);
+//        Random rn = new Random();
+//        int index = rn.nextInt(n);//这里用的random类的方法
+        int index = (int)(Math.random()*n);//这里用的Math.random方法生成0-1的随机数
         System.out.println(student[index]);
     }
 }
