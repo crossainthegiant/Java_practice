@@ -1,4 +1,4 @@
-package black_horse;
+package dailyPractics;
 /*
 随机点名器的Arraylist实现(包含学生的姓名和年龄）
  */

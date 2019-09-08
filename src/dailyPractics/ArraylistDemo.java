@@ -1,4 +1,4 @@
-package black_horse;
+package dailyPractics;
 /*
 Arraylist 集合的使用
 也是引用数据类型

@@ -1,6 +1,5 @@
-package black_horse;
+package dailyPractics;
 import java.util.Scanner;
-import java.util.Random;
 
 public class random_order {
     public static void main(String[] args) {
