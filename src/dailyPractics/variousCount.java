@@ -2,7 +2,7 @@ package dailyPractics;
 
 /*
  * @Author: qph
- * @Date: 2019/9/11 19:51
+ * @Date: 2019/9/12 11:51
  * @description: 输入一句话，统计出这句话中数字、字母、空格和其他字符的个数
  */
 
